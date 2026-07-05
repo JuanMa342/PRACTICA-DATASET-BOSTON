@@ -111,3 +111,13 @@ plt.title('Porcentaje de "Status Inferior" vs Precio Medio de las Viviendas')
 plt.xlabel('Porcentaje de "Status Inferior"')
 plt.ylabel('Precio Medio de las Viviendas')
 plt.show()
+
+# Conclusiones Generales
+print('''
+Conclusiones Generales de lo analizado en este DataSet:
+- A mayor Criminalidad, menor es el precio de las viviendas.
+- Número de habitaciones aumenta el valor de las viviendas.
+- Las viviendas más antiguas tienden a tener valores mas bajos.
+- Accesibilidad: A mayor distancia de los Centros de Empleo (ó Zonas de Empresas y Fábricas), menos es 
+el valor de las viviendas.
+''')
